@@ -1,0 +1,27 @@
+<map id="src/mlpack/methods/neighbor_search/typedef.hpp" name="src/mlpack/methods/neighbor_search/typedef.hpp">
+<area shape="rect" id="node2" href="$neighbor__search_8hpp.html" title="neighbor_search.hpp" alt="" coords="1611,102,1754,129"/>
+<area shape="rect" id="node31" href="$lmetric_8hpp.html" title="mlpack/core/metrics\l/lmetric.hpp" alt="" coords="1938,363,2078,404"/>
+<area shape="rect" id="node45" href="$nearest__neighbor__sort_8hpp.html" title="sort_policies/nearest\l_neighbor_sort.hpp" alt="" coords="2115,184,2258,225"/>
+<area shape="rect" id="node49" href="$furthest__neighbor__sort_8hpp.html" title="sort_policies/furthest\l_neighbor_sort.hpp" alt="" coords="2879,95,3022,136"/>
+<area shape="rect" id="node3" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1164,541,1300,568"/>
+<area shape="rect" id="node29" href="$binary__space__tree_8hpp.html" title="mlpack/core/tree/binary\l_space_tree.hpp" alt="" coords="1198,184,1357,225"/>
+<area shape="rect" id="node39" href="$binary__space__tree_2binary__space__tree_8hpp.html" title="binary_space_tree/binary\l_space_tree.hpp" alt="" coords="994,363,1161,404"/>
+<area shape="rect" id="node43" href="$rectangle__tree_8hpp.html" title="mlpack/core/tree/rectangle\l_tree.hpp" alt="" coords="1381,184,1557,225"/>
+<area shape="rect" id="node44" href="$neighbor__search__stat_8hpp.html" title="neighbor_search_stat.hpp" alt="" coords="592,370,763,397"/>
+<area shape="rect" id="node47" href="$neighbor__search__rules_8hpp.html" title="neighbor_search_rules.hpp" alt="" coords="1665,191,1842,218"/>
+<area shape="rect" id="node20" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="5,616,200,657"/>
+<area shape="rect" id="node21" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1761,616,1956,657"/>
+<area shape="rect" id="node23" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2177,616,2324,657"/>
+<area shape="rect" id="node24" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="2348,616,2495,657"/>
+<area shape="rect" id="node25" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2519,623,2679,650"/>
+<area shape="rect" id="node27" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2703,623,2881,650"/>
+<area shape="rect" id="node30" href="$bounds_8hpp.html" title="Bounds that are useful for binary space partitioning trees. " alt="" coords="1950,281,2039,307"/>
+<area shape="rect" id="node33" href="$midpoint__split_8hpp.html" title="binary_space_tree/midpoint\l_split.hpp" alt="" coords="987,452,1168,493"/>
+<area shape="rect" id="node34" href="$mean__split_8hpp.html" title="binary_space_tree/mean\l_split.hpp" alt="" coords="1347,452,1511,493"/>
+<area shape="rect" id="node35" href="$vantage__point__split_8hpp.html" title="binary_space_tree/vantage\l_point_split.hpp" alt="" coords="1468,363,1647,404"/>
+<area shape="rect" id="node36" href="$rp__tree__max__split_8hpp.html" title="binary_space_tree/rp\l_tree_max_split.hpp" alt="" coords="1671,363,1814,404"/>
+<area shape="rect" id="node37" href="$rp__tree__mean__split_8hpp.html" title="binary_space_tree/rp\l_tree_mean_split.hpp" alt="" coords="1779,273,1925,315"/>
+<area shape="rect" id="node38" href="$ub__tree__split_8hpp.html" title="binary_space_tree/ub\l_tree_split.hpp" alt="" coords="717,452,864,493"/>
+<area shape="rect" id="node40" href="$binary__space__tree_2single__tree__traverser_8hpp.html" title="binary_space_tree/single\l_tree_traverser.hpp" alt="" coords="1255,273,1422,315"/>
+<area shape="rect" id="node42" href="$binary__space__tree_2dual__tree__traverser_8hpp.html" title="binary_space_tree/dual\l_tree_traverser.hpp" alt="" coords="1446,273,1602,315"/>
+</map>

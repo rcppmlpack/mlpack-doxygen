@@ -1,0 +1,20 @@
+<map id="src/mlpack/methods/hoeffding_trees/typedef.hpp" name="src/mlpack/methods/hoeffding_trees/typedef.hpp">
+<area shape="rect" id="node3" href="$hoeffding__tree_8hpp.html" title="hoeffding_tree.hpp" alt="" coords="838,102,967,129"/>
+<area shape="rect" id="node4" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="812,363,948,389"/>
+<area shape="rect" id="node38" href="$dataset__mapper_8hpp.html" title="mlpack/core/data/dataset\l_mapper.hpp" alt="" coords="457,184,626,225"/>
+<area shape="rect" id="node43" href="$gini__impurity_8hpp.html" title="gini_impurity.hpp" alt="" coords="753,191,873,218"/>
+<area shape="rect" id="node44" href="$hoeffding__numeric__split_8hpp.html" title="hoeffding_numeric_split.hpp" alt="" coords="900,191,1084,218"/>
+<area shape="rect" id="node47" href="$hoeffding__categorical__split_8hpp.html" title="hoeffding_categorical\l_split.hpp" alt="" coords="1151,184,1297,225"/>
+<area shape="rect" id="node21" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="933,437,1128,479"/>
+<area shape="rect" id="node25" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1865,437,2060,479"/>
+<area shape="rect" id="node27" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2281,437,2428,479"/>
+<area shape="rect" id="node28" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1695,437,1841,479"/>
+<area shape="rect" id="node30" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2581,445,2741,471"/>
+<area shape="rect" id="node35" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2956,445,3135,471"/>
+<area shape="rect" id="node22" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1843,616,1997,657"/>
+<area shape="rect" id="node33" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="2423,534,2574,561"/>
+<area shape="rect" id="node34" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2599,534,2724,561"/>
+<area shape="rect" id="node41" href="$increment__policy_8hpp.html" title="map_policies/increment\l_policy.hpp" alt="" coords="414,273,573,315"/>
+<area shape="rect" id="node45" href="$numeric__split__info_8hpp.html" title="numeric_split_info.hpp" alt="" coords="1035,281,1187,307"/>
+<area shape="rect" id="node48" href="$categorical__split__info_8hpp.html" title="categorical_split_info.hpp" alt="" coords="1431,281,1601,307"/>
+</map>

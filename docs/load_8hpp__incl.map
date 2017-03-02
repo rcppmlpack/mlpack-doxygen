@@ -1,0 +1,16 @@
+<map id="src/mlpack/core/data/load.hpp" name="src/mlpack/core/data/load.hpp">
+<area shape="rect" id="node2" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="127,430,287,457"/>
+<area shape="rect" id="node14" href="$format_8hpp.html" title="format.hpp" alt="" coords="923,95,1007,121"/>
+<area shape="rect" id="node15" href="$dataset__mapper_8hpp.html" title="dataset_mapper.hpp" alt="" coords="759,95,899,121"/>
+<area shape="rect" id="node5" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="345,519,495,546"/>
+<area shape="rect" id="node12" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="144,519,269,546"/>
+<area shape="rect" id="node10" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1207,601,1361,643"/>
+<area shape="rect" id="node16" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1152,348,1288,375"/>
+<area shape="rect" id="node43" href="$increment__policy_8hpp.html" title="map_policies/increment\l_policy.hpp" alt="" coords="766,169,925,211"/>
+<area shape="rect" id="node31" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="1689,423,1884,464"/>
+<area shape="rect" id="node34" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="2451,423,2645,464"/>
+<area shape="rect" id="node35" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2669,423,2816,464"/>
+<area shape="rect" id="node36" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="2840,423,2987,464"/>
+<area shape="rect" id="node38" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="609,430,788,457"/>
+<area shape="rect" id="node44" href="$datatype_8hpp.html" title="mlpack/core/data/map\l_policies/datatype.hpp" alt="" coords="793,259,945,300"/>
+</map>

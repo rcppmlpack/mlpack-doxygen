@@ -1,0 +1,21 @@
+<map id="src/mlpack/core/tree/cover_tree.hpp" name="src/mlpack/core/tree/cover_tree.hpp">
+<area shape="rect" id="node2" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1265,370,1401,397"/>
+<area shape="rect" id="node36" href="$first__point__is__root_8hpp.html" title="cover_tree/first_point\l_is_root.hpp" alt="" coords="1316,273,1460,315"/>
+<area shape="rect" id="node37" href="$cover__tree_2cover__tree_8hpp.html" title="cover_tree/cover_tree.hpp" alt="" coords="1428,191,1601,218"/>
+<area shape="rect" id="node42" href="$cover__tree_2single__tree__traverser_8hpp.html" title="cover_tree/single_tree\l_traverser.hpp" alt="" coords="1202,95,1353,136"/>
+<area shape="rect" id="node45" href="$cover__tree_2dual__tree__traverser_8hpp.html" title="cover_tree/dual_tree\l_traverser.hpp" alt="" coords="2039,273,2179,315"/>
+<area shape="rect" id="node48" href="$cover__tree_2traits_8hpp.html" title="cover_tree/traits.hpp" alt="" coords="2075,102,2216,129"/>
+<area shape="rect" id="node50" href="$core_2tree_2cover__tree_2typedef_8hpp.html" title="cover_tree/typedef.hpp" alt="" coords="1679,102,1833,129"/>
+<area shape="rect" id="node19" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="601,452,796,493"/>
+<area shape="rect" id="node23" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1533,452,1728,493"/>
+<area shape="rect" id="node25" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="1949,452,2096,493"/>
+<area shape="rect" id="node26" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1363,452,1509,493"/>
+<area shape="rect" id="node28" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2171,459,2331,486"/>
+<area shape="rect" id="node33" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2355,459,2533,486"/>
+<area shape="rect" id="node20" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1431,631,1585,672"/>
+<area shape="rect" id="node31" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="1913,549,2063,575"/>
+<area shape="rect" id="node32" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2088,549,2213,575"/>
+<area shape="rect" id="node38" href="$range_8hpp.html" title="Definition of the Range class, which represents a simple range with a lower and upper bound..." alt="" coords="1535,281,1721,307"/>
+<area shape="rect" id="node40" href="$statistic_8hpp.html" title="Definition of the policy type for the statistic class. " alt="" coords="1746,281,1851,307"/>
+<area shape="rect" id="node49" href="$tree__traits_8hpp.html" title="mlpack/core/tree/tree\l_traits.hpp" alt="" coords="2074,184,2219,225"/>
+</map>

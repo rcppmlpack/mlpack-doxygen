@@ -1,0 +1,25 @@
+<map id="src/mlpack/core/tree/binary_space_tree/breadth_first_dual_tree_traverser.hpp" name="src/mlpack/core/tree/binary_space_tree/breadth_first_dual_tree_traverser.hpp">
+<area shape="rect" id="node2" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="886,481,1022,508"/>
+<area shape="rect" id="node34" href="$binary__space__tree_8hpp.html" title="../binary_space_tree.hpp" alt="" coords="1159,117,1325,143"/>
+<area shape="rect" id="node19" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="765,556,959,597"/>
+<area shape="rect" id="node23" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1697,556,1891,597"/>
+<area shape="rect" id="node25" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2113,556,2259,597"/>
+<area shape="rect" id="node26" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1526,556,1673,597"/>
+<area shape="rect" id="node28" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2334,563,2494,590"/>
+<area shape="rect" id="node33" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2727,653,2906,679"/>
+<area shape="rect" id="node20" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1384,735,1537,776"/>
+<area shape="rect" id="node31" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="2149,653,2300,679"/>
+<area shape="rect" id="node32" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2527,653,2653,679"/>
+<area shape="rect" id="node35" href="$bounds_8hpp.html" title="Bounds that are useful for binary space partitioning trees. " alt="" coords="2103,213,2192,240"/>
+<area shape="rect" id="node36" href="$midpoint__split_8hpp.html" title="binary_space_tree/midpoint\l_split.hpp" alt="" coords="659,392,841,433"/>
+<area shape="rect" id="node37" href="$mean__split_8hpp.html" title="binary_space_tree/mean\l_split.hpp" alt="" coords="1676,392,1840,433"/>
+<area shape="rect" id="node38" href="$vantage__point__split_8hpp.html" title="binary_space_tree/vantage\l_point_split.hpp" alt="" coords="2153,303,2331,344"/>
+<area shape="rect" id="node39" href="$rp__tree__max__split_8hpp.html" title="binary_space_tree/rp\l_tree_max_split.hpp" alt="" coords="271,303,413,344"/>
+<area shape="rect" id="node40" href="$rp__tree__mean__split_8hpp.html" title="binary_space_tree/rp\l_tree_mean_split.hpp" alt="" coords="319,206,466,247"/>
+<area shape="rect" id="node41" href="$ub__tree__split_8hpp.html" title="binary_space_tree/ub\l_tree_split.hpp" alt="" coords="489,392,635,433"/>
+<area shape="rect" id="node42" href="$binary__space__tree_2binary__space__tree_8hpp.html" title="binary_space_tree/binary\l_space_tree.hpp" alt="" coords="667,303,833,344"/>
+<area shape="rect" id="node43" href="$binary__space__tree_2single__tree__traverser_8hpp.html" title="binary_space_tree/single\l_tree_traverser.hpp" alt="" coords="667,206,833,247"/>
+<area shape="rect" id="node45" href="$binary__space__tree_2dual__tree__traverser_8hpp.html" title="binary_space_tree/dual\l_tree_traverser.hpp" alt="" coords="857,206,1013,247"/>
+<area shape="rect" id="node48" href="$binary__space__tree_2traits_8hpp.html" title="binary_space_tree/traits.hpp" alt="" coords="1669,213,1855,240"/>
+<area shape="rect" id="node49" href="$core_2tree_2binary__space__tree_2typedef_8hpp.html" title="binary_space_tree/typedef.hpp" alt="" coords="1879,213,2079,240"/>
+</map>

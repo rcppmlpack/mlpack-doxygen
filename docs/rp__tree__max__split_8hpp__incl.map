@@ -1,0 +1,13 @@
+<map id="src/mlpack/core/tree/binary_space_tree/rp_tree_max_split.hpp" name="src/mlpack/core/tree/binary_space_tree/rp_tree_max_split.hpp">
+<area shape="rect" id="node2" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="812,117,948,143"/>
+<area shape="rect" id="node39" href="$perform__split_8hpp.html" title="mlpack/core/tree/perform\l_split.hpp" alt="" coords="973,109,1139,151"/>
+<area shape="rect" id="node19" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="933,199,1128,240"/>
+<area shape="rect" id="node23" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1865,199,2060,240"/>
+<area shape="rect" id="node25" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2281,199,2428,240"/>
+<area shape="rect" id="node26" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1695,199,1841,240"/>
+<area shape="rect" id="node28" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2503,206,2663,233"/>
+<area shape="rect" id="node36" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2880,206,3059,233"/>
+<area shape="rect" id="node20" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1682,377,1835,419"/>
+<area shape="rect" id="node31" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="2255,295,2406,322"/>
+<area shape="rect" id="node35" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2503,295,2628,322"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/mlpack/core/tree/spill_tree/is_spill_tree.hpp" name="src/mlpack/core/tree/spill_tree/is_spill_tree.hpp">
+<area shape="rect" id="node2" href="$spill__tree_2spill__tree_8hpp.html" title="spill_tree.hpp" alt="" coords="885,109,984,136"/>
+<area shape="rect" id="node3" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="812,601,948,628"/>
+<area shape="rect" id="node37" href="$midpoint__space__split_8hpp.html" title="../space_split/midpoint\l_space_split.hpp" alt="" coords="918,348,1071,389"/>
+<area shape="rect" id="node42" href="$statistic_8hpp.html" title="Definition of the policy type for the statistic class. " alt="" coords="973,184,1078,211"/>
+<area shape="rect" id="node44" href="$spill__tree_8hpp.html" title="../spill_tree.hpp" alt="" coords="1102,184,1213,211"/>
+<area shape="rect" id="node20" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="933,676,1128,717"/>
+<area shape="rect" id="node24" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1865,676,2060,717"/>
+<area shape="rect" id="node26" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2281,676,2428,717"/>
+<area shape="rect" id="node27" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1695,676,1841,717"/>
+<area shape="rect" id="node29" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2503,683,2663,710"/>
+<area shape="rect" id="node34" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2860,683,3039,710"/>
+<area shape="rect" id="node21" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1826,855,1979,896"/>
+<area shape="rect" id="node32" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="2277,773,2427,799"/>
+<area shape="rect" id="node33" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2503,773,2628,799"/>
+<area shape="rect" id="node38" href="$hyperplane_8hpp.html" title="hyperplane.hpp" alt="" coords="1089,445,1199,471"/>
+<area shape="rect" id="node39" href="$projection__vector_8hpp.html" title="projection_vector.hpp" alt="" coords="1351,527,1497,553"/>
+<area shape="rect" id="node40" href="$bounds_8hpp.html" title="Bounds that are useful for binary space partitioning trees. " alt="" coords="1532,601,1633,628"/>
+<area shape="rect" id="node45" href="$spill__single__tree__traverser_8hpp.html" title="spill_tree/spill_single\l_tree_traverser.hpp" alt="" coords="595,259,738,300"/>
+<area shape="rect" id="node47" href="$spill__dual__tree__traverser_8hpp.html" title="spill_tree/spill_dual\l_tree_traverser.hpp" alt="" coords="762,259,897,300"/>
+<area shape="rect" id="node49" href="$spill__tree_2traits_8hpp.html" title="spill_tree/traits.hpp" alt="" coords="1143,266,1275,293"/>
+<area shape="rect" id="node50" href="$core_2tree_2spill__tree_2typedef_8hpp.html" title="spill_tree/typedef.hpp" alt="" coords="972,266,1119,293"/>
+</map>

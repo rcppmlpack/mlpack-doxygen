@@ -1,0 +1,21 @@
+<map id="src/mlpack/core/tree/cover_tree/typedef.hpp" name="src/mlpack/core/tree/cover_tree/typedef.hpp">
+<area shape="rect" id="node2" href="$cover__tree_2cover__tree_8hpp.html" title="cover_tree.hpp" alt="" coords="1247,95,1355,121"/>
+<area shape="rect" id="node3" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1265,341,1401,367"/>
+<area shape="rect" id="node37" href="$range_8hpp.html" title="Definition of the Range class, which represents a simple range with a lower and upper bound..." alt="" coords="813,169,1000,196"/>
+<area shape="rect" id="node39" href="$statistic_8hpp.html" title="Definition of the policy type for the statistic class. " alt="" coords="1339,169,1445,196"/>
+<area shape="rect" id="node40" href="$first__point__is__root_8hpp.html" title="first_point_is_root.hpp" alt="" coords="1289,251,1439,278"/>
+<area shape="rect" id="node42" href="$cover__tree_8hpp.html" title="../cover_tree.hpp" alt="" coords="1469,169,1589,196"/>
+<area shape="rect" id="node20" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="601,423,796,464"/>
+<area shape="rect" id="node24" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1533,423,1728,464"/>
+<area shape="rect" id="node26" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="1949,423,2096,464"/>
+<area shape="rect" id="node27" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1363,423,1509,464"/>
+<area shape="rect" id="node29" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2171,430,2331,457"/>
+<area shape="rect" id="node34" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2355,430,2533,457"/>
+<area shape="rect" id="node21" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1431,601,1585,643"/>
+<area shape="rect" id="node32" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="1913,519,2063,546"/>
+<area shape="rect" id="node33" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2088,519,2213,546"/>
+<area shape="rect" id="node43" href="$cover__tree_2single__tree__traverser_8hpp.html" title="cover_tree/single_tree\l_traverser.hpp" alt="" coords="1062,244,1213,285"/>
+<area shape="rect" id="node46" href="$cover__tree_2dual__tree__traverser_8hpp.html" title="cover_tree/dual_tree\l_traverser.hpp" alt="" coords="1679,244,1819,285"/>
+<area shape="rect" id="node49" href="$cover__tree_2traits_8hpp.html" title="cover_tree/traits.hpp" alt="" coords="1844,251,1985,278"/>
+<area shape="rect" id="node50" href="$tree__traits_8hpp.html" title="mlpack/core/tree/tree\l_traits.hpp" alt="" coords="1893,333,2038,375"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="src/mlpack/core/dists/discrete_distribution.hpp" name="src/mlpack/core/dists/discrete_distribution.hpp">
+<area shape="rect" id="node2" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1687,169,1823,196"/>
+<area shape="rect" id="node28" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2664,251,2824,278"/>
+<area shape="rect" id="node39" href="$random_8hpp.html" title="Miscellaneous math random&#45;related routines. " alt="" coords="2762,95,2961,121"/>
+<area shape="rect" id="node19" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="223,244,417,285"/>
+<area shape="rect" id="node23" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1155,244,1349,285"/>
+<area shape="rect" id="node25" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="1571,244,1717,285"/>
+<area shape="rect" id="node26" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="984,244,1131,285"/>
+<area shape="rect" id="node36" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2041,251,2220,278"/>
+<area shape="rect" id="node20" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1027,423,1181,464"/>
+<area shape="rect" id="node31" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="2186,341,2337,367"/>
+<area shape="rect" id="node35" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2361,341,2487,367"/>
+</map>

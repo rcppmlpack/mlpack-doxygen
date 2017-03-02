@@ -1,0 +1,20 @@
+<map id="src/mlpack/core/tree/cover_tree/single_tree_traverser.hpp" name="src/mlpack/core/tree/cover_tree/single_tree_traverser.hpp">
+<area shape="rect" id="node2" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1265,363,1401,389"/>
+<area shape="rect" id="node38" href="$cover__tree_2cover__tree_8hpp.html" title="cover_tree.hpp" alt="" coords="1401,117,1509,143"/>
+<area shape="rect" id="node19" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="601,437,796,479"/>
+<area shape="rect" id="node23" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1533,437,1728,479"/>
+<area shape="rect" id="node25" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="1949,437,2096,479"/>
+<area shape="rect" id="node26" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="1363,437,1509,479"/>
+<area shape="rect" id="node28" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="2171,445,2331,471"/>
+<area shape="rect" id="node35" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="2355,445,2533,471"/>
+<area shape="rect" id="node20" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1410,616,1563,657"/>
+<area shape="rect" id="node31" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="1862,534,2013,561"/>
+<area shape="rect" id="node34" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="2088,534,2213,561"/>
+<area shape="rect" id="node39" href="$range_8hpp.html" title="Definition of the Range class, which represents a simple range with a lower and upper bound..." alt="" coords="1060,199,1247,225"/>
+<area shape="rect" id="node41" href="$statistic_8hpp.html" title="Definition of the policy type for the statistic class. " alt="" coords="1379,199,1485,225"/>
+<area shape="rect" id="node42" href="$first__point__is__root_8hpp.html" title="first_point_is_root.hpp" alt="" coords="1315,281,1466,307"/>
+<area shape="rect" id="node44" href="$cover__tree_8hpp.html" title="../cover_tree.hpp" alt="" coords="1723,199,1843,225"/>
+<area shape="rect" id="node46" href="$cover__tree_2dual__tree__traverser_8hpp.html" title="cover_tree/dual_tree\l_traverser.hpp" alt="" coords="1895,273,2035,315"/>
+<area shape="rect" id="node48" href="$cover__tree_2traits_8hpp.html" title="cover_tree/traits.hpp" alt="" coords="2224,281,2365,307"/>
+<area shape="rect" id="node49" href="$core_2tree_2cover__tree_2typedef_8hpp.html" title="cover_tree/typedef.hpp" alt="" coords="1491,281,1645,307"/>
+</map>

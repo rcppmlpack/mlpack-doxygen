@@ -1,0 +1,22 @@
+<map id="src/mlpack/methods/hoeffding_trees/hoeffding_tree_model.hpp" name="src/mlpack/methods/hoeffding_trees/hoeffding_tree_model.hpp">
+<area shape="rect" id="node2" href="$hoeffding__tree_8hpp.html" title="hoeffding_tree.hpp" alt="" coords="834,109,963,136"/>
+<area shape="rect" id="node47" href="$binary__numeric__split_8hpp.html" title="binary_numeric_split.hpp" alt="" coords="1169,109,1335,136"/>
+<area shape="rect" id="node50" href="$hoeffding__trees_2information__gain_8hpp.html" title="information_gain.hpp" alt="" coords="1359,109,1502,136"/>
+<area shape="rect" id="node3" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="940,363,1076,389"/>
+<area shape="rect" id="node34" href="$dataset__mapper_8hpp.html" title="mlpack/core/data/dataset\l_mapper.hpp" alt="" coords="1347,184,1517,225"/>
+<area shape="rect" id="node39" href="$gini__impurity_8hpp.html" title="gini_impurity.hpp" alt="" coords="269,281,389,307"/>
+<area shape="rect" id="node40" href="$hoeffding__numeric__split_8hpp.html" title="hoeffding_numeric_split.hpp" alt="" coords="600,191,784,218"/>
+<area shape="rect" id="node43" href="$hoeffding__categorical__split_8hpp.html" title="hoeffding_categorical\l_split.hpp" alt="" coords="826,184,971,225"/>
+<area shape="rect" id="node20" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="776,437,971,479"/>
+<area shape="rect" id="node24" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="1979,437,2173,479"/>
+<area shape="rect" id="node26" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2395,437,2541,479"/>
+<area shape="rect" id="node27" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="2565,437,2712,479"/>
+<area shape="rect" id="node29" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="1045,445,1205,471"/>
+<area shape="rect" id="node33" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="1739,534,1917,561"/>
+<area shape="rect" id="node21" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="1169,616,1322,657"/>
+<area shape="rect" id="node32" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="1310,534,1461,561"/>
+<area shape="rect" id="node37" href="$increment__policy_8hpp.html" title="map_policies/increment\l_policy.hpp" alt="" coords="1587,273,1746,315"/>
+<area shape="rect" id="node41" href="$numeric__split__info_8hpp.html" title="numeric_split_info.hpp" alt="" coords="597,281,749,307"/>
+<area shape="rect" id="node44" href="$categorical__split__info_8hpp.html" title="categorical_split_info.hpp" alt="" coords="1046,281,1215,307"/>
+<area shape="rect" id="node48" href="$binary__numeric__split__info_8hpp.html" title="binary_numeric_split\l_info.hpp" alt="" coords="1181,184,1323,225"/>
+</map>

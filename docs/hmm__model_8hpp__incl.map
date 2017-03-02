@@ -1,0 +1,23 @@
+<map id="src/mlpack/methods/hmm/hmm_model.hpp" name="src/mlpack/methods/hmm/hmm_model.hpp">
+<area shape="rect" id="node2" href="$hmm_8hpp.html" title="hmm.hpp" alt="" coords="807,266,883,293"/>
+<area shape="rect" id="node41" href="$gmm_8hpp.html" title="mlpack/methods/gmm\l/gmm.hpp" alt="" coords="896,95,1047,136"/>
+<area shape="rect" id="node3" href="$prereqs_8hpp.html" title="The core includes that mlpack expects; standard C++ includes and Armadillo. " alt="" coords="1306,527,1442,553"/>
+<area shape="rect" id="node37" href="$discrete__distribution_8hpp.html" title="mlpack/core/dists/discrete\l_distribution.hpp" alt="" coords="612,348,787,389"/>
+<area shape="rect" id="node20" href="$serialization__shim_8hpp.html" title="mlpack/core/data/serialization\l_shim.hpp" alt="" coords="877,601,1071,643"/>
+<area shape="rect" id="node24" href="$serialization__template__version_8hpp.html" title="mlpack/core/data/serialization\l_template_version.hpp" alt="" coords="2047,601,2242,643"/>
+<area shape="rect" id="node26" href="$arma__traits_8hpp.html" title="mlpack/core/util/arma\l_traits.hpp" alt="" coords="2463,601,2610,643"/>
+<area shape="rect" id="node27" href="$arma__config__check_8hpp.html" title="mlpack/core/util/arma\l_config_check.hpp" alt="" coords="2634,601,2781,643"/>
+<area shape="rect" id="node29" href="$log_8hpp.html" title="mlpack/core/util/log.hpp" alt="" coords="307,609,467,635"/>
+<area shape="rect" id="node34" href="$timers_8hpp.html" title="mlpack/core/util/timers.hpp" alt="" coords="1095,609,1274,635"/>
+<area shape="rect" id="node21" href="$sfinae__utility_8hpp.html" title="mlpack/core/util/sfinae\l_utility.hpp" alt="" coords="795,780,948,821"/>
+<area shape="rect" id="node32" href="$prefixedoutstream_8hpp.html" title="prefixedoutstream.hpp" alt="" coords="432,698,583,725"/>
+<area shape="rect" id="node33" href="$nulloutstream_8hpp.html" title="nulloutstream.hpp" alt="" coords="231,698,357,725"/>
+<area shape="rect" id="node38" href="$random_8hpp.html" title="Miscellaneous math random&#45;related routines. " alt="" coords="617,445,816,471"/>
+<area shape="rect" id="node42" href="$em__fit_8hpp.html" title="em_fit.hpp" alt="" coords="1157,184,1239,211"/>
+<area shape="rect" id="node43" href="$gaussian__distribution_8hpp.html" title="mlpack/core/dists/gaussian\l_distribution.hpp" alt="" coords="1283,348,1465,389"/>
+<area shape="rect" id="node44" href="$kmeans_8hpp.html" title="mlpack/methods/kmeans\l/kmeans.hpp" alt="" coords="1607,259,1775,300"/>
+<area shape="rect" id="node48" href="$positive__definite__constraint_8hpp.html" title="positive_definite_constraint.hpp" alt="" coords="1043,445,1249,471"/>
+<area shape="rect" id="node45" href="$lmetric_8hpp.html" title="mlpack/core/metrics\l/lmetric.hpp" alt="" coords="1780,437,1920,479"/>
+<area shape="rect" id="node46" href="$sample__initialization_8hpp.html" title="sample_initialization.hpp" alt="" coords="1489,355,1653,382"/>
+<area shape="rect" id="node47" href="$max__variance__new__cluster_8hpp.html" title="max_variance_new_cluster.hpp" alt="" coords="1490,445,1695,471"/>
+</map>
