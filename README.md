@@ -4,9 +4,9 @@
 The repository contains the documentation produced by `doxygen` from the
 sources of [mlpack](https://github.com/mlpack/mlpack), version 2.1.1.
 
-You can access it via
+It can be accessed it via a browser at the
 [rcppmlpack.github.io/mlpack-doxygen/](https://rcppmlpack.github.io/mlpack-doxygen/)
-URL that corresponds to the website of this repo.
+URL which corresponds to the website of this repo.
 
 ## Author
 
